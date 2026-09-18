@@ -1,0 +1,2 @@
+# Optional browser verification only. The frontend has no runtime dependencies.
+playwright==1.62.0
